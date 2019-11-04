@@ -71,7 +71,7 @@
 	<Designate_Trees>标记砍树数量</Designate_Trees>
 	<Set_refresh_time_in_seconds>设定刷新周期(秒)</Set_refresh_time_in_seconds>
 	<Equip_weapon>装备武器</Equip_weapon>
-	<Set_refresh_time_in_seconds_for_equiping_lost_weapon_or_swapping_for_better_one_using_DPSCalcMode>设置刷新周期(秒)以便殖民者将装备遗落的武器或更换更高DPS的武器。</Set_refresh_time_in_seconds_for_equiping_lost_weapon_or_swapping_for_better_one_using_DPSCalcMode>
+	<Set_refresh_time_in_seconds_for_equiping_lost_weapon_or_swapping_for_better_one_using_DPSCalcMode>设置刷新周期(秒)以便殖民者装备遗落的武器或更换更高DPS的武器。</Set_refresh_time_in_seconds_for_equiping_lost_weapon_or_swapping_for_better_one_using_DPSCalcMode>
 	<Work_Zone_pref>工作/活动区选项</Work_Zone_pref>
 	<Set_refresh_time_in_seconds_for_setting_new_colonist_zonework_prioritymedicine_use_to_most_popular>设置刷新周期(秒)以设定新殖民者使用殖民地内最普遍的活动区/工作优先级别/用药方针。</Set_refresh_time_in_seconds_for_setting_new_colonist_zonework_prioritymedicine_use_to_most_popular>
 	<Unforbid_stuff>解禁物品</Unforbid_stuff>
@@ -94,7 +94,7 @@
 	<Draw_lines_from_shooter_to_target_and_from_shooter_to_obstacle>绘制射击者到目标及射击者到障碍物的线路。</Draw_lines_from_shooter_to_target_and_from_shooter_to_obstacle>
 
 	<Name>名字</Name>
-	<Initialize_from/>
+	<Initialize_from>从下方读取设定</Initialize_from>
 	<Select_animals_with>选择动物属性是</Select_animals_with>
 	<Designate_HealingRoot>标记收获药草数量</Designate_HealingRoot>
 	<Designate_Ambrosia>标记收获仙羞树数量</Designate_Ambrosia>
