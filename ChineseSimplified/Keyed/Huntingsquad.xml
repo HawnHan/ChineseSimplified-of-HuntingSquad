@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Predator>捕食者</Predator>
+	<Predator_Desc>凶猛的动物遭受攻击时可能会反击狩猎者。</Predator_Desc>
+
+	<Gentle>温顺的</Gentle>
+	<Gentle_Desc>温顺的动物。</Gentle_Desc>
+
+	<Annoying>棘手的</Annoying>
+	<Annoying_Desc>狩猎起来很麻烦的动物。</Annoying_Desc>
+
+	<Small>小型</Small>
+	<Small_Desc>例如老鼠，野兔，浣熊，眼镜蛇这类的小体型动物。</Small_Desc>
+
+	<Medium>中等</Medium>
+	<Medium_Desc>例如鹿，狼，羊驼这类中体型的动物。</Medium_Desc>
+
+	<Big>大型</Big>
+	<Big_Desc>例如大象，巨懒，熊这类大体型动物。</Big_Desc>
+
+	<Any>棘手</Any>
+	<Any_Desc>棘手的动物。</Any_Desc>
+
+	<HuntSetting>设定</HuntSetting>
+
+
+	<Hunt_priority_0_1-lowest_20-highest_priority>狩猎优先度 {0}。1为最低，20为最高优先度。</Hunt_priority_0_1-lowest_20-highest_priority>
+
+	<Min_Hunters>最低人数</Min_Hunters>
+	<Create_dangerous_hunt_group_with_at_least_0_hunters>成立一个至少 {0} 个狩猎者的狩猎小队。</Create_dangerous_hunt_group_with_at_least_0_hunters>
+	<Max_Hunters>最高人数</Max_Hunters>
+	<Create_dangerous_hunt_group_with_at_most_0_hunters>成立一个最多 {0} 个狩猎者的狩猎小队。</Create_dangerous_hunt_group_with_at_most_0_hunters>
+	<Start_Shooting>射击准备</Start_Shooting>
+	<Start_shooting_at_target_if_at_least_0or_all_if_it_is_greater_than_all_hunters_hunters_are_in_weapon_range>当猎物处于 {0} 个狩猎者的射击范围时开始射击。(或所有人，如果这个猎物强于所有狩猎者时)</Start_shooting_at_target_if_at_least_0or_all_if_it_is_greater_than_all_hunters_hunters_are_in_weapon_range>
+	<Min_Distance>最小狩猎距离</Min_Distance>
+	<Hunt_at_least_0_cells_away_from_colonist_activity>狩猎至少远离殖民者生活范围 {0} 个格子。</Hunt_at_least_0_cells_away_from_colonist_activity>
+	<Chop_Trees>砍树</Chop_Trees>
+	<Chop_trees_if_stock_level_is_less_or_equal_than_0>当储存区木材数目低于 {0} 时砍树。</Chop_trees_if_stock_level_is_less_or_equal_than_0>
+	<Debug_Power>调整级别</Debug_Power>
+	<Speed>移动速度</Speed>
+	<Size>体型</Size>
+	<Select>选择</Select>
+	<GreaterOrEqual>大于等于</GreaterOrEqual>
+	<LessOrEqual>小于等于</LessOrEqual>
+	<AndGreaterOrEqual>and &gt;=</AndGreaterOrEqual>
+	<AndLessOrEqual>and &lt;=</AndLessOrEqual>
+	<OrGreaterOrEqual>or &gt;=</OrGreaterOrEqual>
+	<OrLessOrEqual>or &lt;=</OrLessOrEqual>
+	<Long>远程</Long>
+	<Short>近程</Short>
+	<Touch>近身</Touch>
+	<Disabled>禁用</Disabled>
+	<All>全部</All>
+	<Unforbid_with_more_or_equal_0_hit_points>拥有{0}%耐久值以上时解禁。</Unforbid_with_more_or_equal_0_hit_points>
+	<Safe_hunt_for_fire_causing_animals>安全狩猎会引起火灾的动物</Safe_hunt_for_fire_causing_animals>
+	<Hunt_for_animal_causing_fire_only_if_is_self_extinguishable>如果该动物引起的火灾会在天气影响下自行熄灭，狩猎它。</Hunt_for_animal_causing_fire_only_if_is_self_extinguishable>
+	<Prioritize_hunt_for_fire_causing_animals>优先狩猎会引起火灾的动物。</Prioritize_hunt_for_fire_causing_animals>
+	<Hunt_only_at_good_weather>仅在天气好时狩猎。</Hunt_only_at_good_weather>
+	<Designate_for_hunt_only_if_there_is_no_accurancy_penalty_weather_no_rain_snow_fog_etc>仅在无射击精度惩罚天气下安排狩猎。(避免雨，雪，雾等因素)</Designate_for_hunt_only_if_there_is_no_accurancy_penalty_weather_no_rain_snow_fog_etc>
+	<Hunt_only_at_day>在白天狩猎</Hunt_only_at_day>
+	<Designate_for_hunt_only_if_it_is_bright_outside>仅在天亮时安排狩猎。</Designate_for_hunt_only_if_it_is_bright_outside>
+	<Global_Settings>全局设定</Global_Settings>
+	<Affects_all_hunt_buildings>作用于所有狩猎小队中心</Affects_all_hunt_buildings>
+	<Distance_from_hunters_centre>距狩猎小队中心的距离</Distance_from_hunters_centre>
+	<Calculate_distance_to_animal_from_centre_of_available_huntersif_not_set_or_no_available_hunters_distance_is_from_centre_of_all_colonists>计算动物到可用的猎人小队中心的距离(若未设置，或无可用的中心，则距离为所有殖民者的中心点。)</Calculate_distance_to_animal_from_centre_of_available_huntersif_not_set_or_no_available_hunters_distance_is_from_centre_of_all_colonists>
+	<Weapon>武器</Weapon>
+	<Medicine>药物</Medicine>
+	<Food_Source>饮食条</Food_Source>
+	<Dangerous_Hunt>猎杀威胁</Dangerous_Hunt>
+	<Designate_Trees>指定砍树数量</Designate_Trees>
+	<Set_refresh_time_in_seconds>设定刷新周期(秒)</Set_refresh_time_in_seconds>
+	<Equip_weapon>装备武器</Equip_weapon>
+	<Set_refresh_time_in_seconds_for_equiping_lost_weapon_or_swapping_for_better_one_using_DPSCalcMode>设置刷新周期(秒)以便殖民者将装备遗落的武器或更换更高DPS的武器。</Set_refresh_time_in_seconds_for_equiping_lost_weapon_or_swapping_for_better_one_using_DPSCalcMode>
+	<Work_Zone_pref>工作/活动区选项</Work_Zone_pref>
+	<Set_refresh_time_in_seconds_for_setting_new_colonist_zonework_prioritymedicine_use_to_most_popular>设置刷新周期(秒)以设定新殖民者使用殖民地内最普遍的活动区/工作优先级别/用药方针。</Set_refresh_time_in_seconds_for_setting_new_colonist_zonework_prioritymedicine_use_to_most_popular>
+	<Unforbid_stuff>解禁物品</Unforbid_stuff>
+	<Set_refresh_time_in_seconds_for_unforbidding_stuff>设置刷新周期以解禁已禁用物品。</Set_refresh_time_in_seconds_for_unforbidding_stuff>
+	<DPSCalcMode>秒伤(DPS)</DPSCalcMode>
+	<Given_range_is_used_to_calculate_Damage_Per_Second_for_colonist_weapon>指定射击距离以计算殖民者武器的秒伤(DPS)。</Given_range_is_used_to_calculate_Damage_Per_Second_for_colonist_weapon>
+	<Set_verbosity_of_debug>设定调试日志数量。</Set_verbosity_of_debug>
+	<Equip_lost_weapon>装备遗落的武器</Equip_lost_weapon>
+	<Colonist_remembers_held_weapon_and_will_equip_it_when_healthy>当殖民者处于健康状态时将装备之前受伤时遗落的武器。</Colonist_remembers_held_weapon_and_will_equip_it_when_healthy>
+	<Set_new_colonist_zone_to_most_popular>设定最常用的活动区给新殖民者</Set_new_colonist_zone_to_most_popular>
+	<Set_new_colonist_work_priorities>设定新殖民者的工作优先级别</Set_new_colonist_work_priorities>
+	<To_bestif_at_least_minor_passion_and_skill__maximum_of_colonists_or_most_popular_one>予以最好(该殖民者拥有兴趣且技能等级大于等于殖民地内殖民者的最高级) 或最常用的工作优先级别。</To_bestif_at_least_minor_passion_and_skill__maximum_of_colonists_or_most_popular_one>
+	<Set_new_colonist_medicine_preference>设定新殖民者的用药方针</Set_new_colonist_medicine_preference>
+	<To_most_popular_one_herbal_medicine_by_default_Animals_as_well_grouped_by_race_no_medicine_by_default>最常见的，默认为提供草药及等级以下的药物，动物也是，按种族分组的话，默认为有医生照顾，无药物。</To_most_popular_one_herbal_medicine_by_default_Animals_as_well_grouped_by_race_no_medicine_by_default>
+	<Disable_auto_undrafter>禁止自动取消征召</Disable_auto_undrafter>
+	<Disable_auto_undrafting_of_standing_colonist_after_83_seconds>禁用自动取消站立了83秒以上的征召殖民者。</Disable_auto_undrafting_of_standing_colonist_after_83_seconds>
+	<Draw_action_lines>绘制行动路线</Draw_action_lines>
+	<Draw_lines_of_current_actions>绘制当前行动路线。</Draw_lines_of_current_actions>
+	<Draw_shooting_lines>绘制射击线路</Draw_shooting_lines>
+	<Draw_lines_from_shooter_to_target_and_from_shooter_to_obstacle>绘制射击者到目标及射击者到障碍物的线路。</Draw_lines_from_shooter_to_target_and_from_shooter_to_obstacle>
+
+	<Name>名字</Name>
+	<Initialize_from/>
+	<Select_animals_with>选择动物属性是</Select_animals_with>
+	<Designate_HealingRoot>指定药草数量</Designate_HealingRoot>
+	<Designate_Ambrosia>指定仙羞树数量</Designate_Ambrosia>
+	<Designate_Wild_Food_Plant>指定野生食用植物数量</Designate_Wild_Food_Plant>
+	<Count_Meat>统计肉量</Count_Meat>
+	<Set_refresh_time_in_seconds_for_setting_new_colonist_zone_work_priority_medicine_use_to_most_popular>设定刷新周期以设定新殖民者使用最普遍的活动区/工作优先级别/用药方针。</Set_refresh_time_in_seconds_for_setting_new_colonist_zone_work_priority_medicine_use_to_most_popular>
+	<Meat_Limit>肉量界线</Meat_Limit>
+	<Use_Min_Meat_limit>使用最低肉量界线。</Use_Min_Meat_limit>
+	<Harvest_HealingRoots>收获野生药草</Harvest_HealingRoots>
+	<Harvest_HealingRoots_if_stock_level_is_less_or_equal_than_0>当库存低于 {0} 时收获野生药草。</Harvest_HealingRoots_if_stock_level_is_less_or_equal_than_0>
+	<Harvest_Ambrosias>收获仙羞树</Harvest_Ambrosias>
+	<Harvest_Ambrosias_if_stock_level_is_less_or_equal_than_0>当库存低于 {0} 时收获仙羞树。</Harvest_Ambrosias_if_stock_level_is_less_or_equal_than_0>
+	<Harvest_Wild_Food_Plants>收获野生可食用植物</Harvest_Wild_Food_Plants>
+	<Harvest_from_wild_food_plants_if_stock_level_is_less_or_equal_than_0>当库存低于 {0} 时收获野生可食用植物。</Harvest_from_wild_food_plants_if_stock_level_is_less_or_equal_than_0>
+	<Min_Meat>最低肉类数量</Min_Meat>
+	<Hunt_if_meat_count_per_colonist_prisoner_is_less_than_0_also_in_fresh_accessible_animal_corpses>当肉类数量低于 {0} /每人(含殖民者和囚犯)时，自动狩猎(包括新鲜的，可抵达的动物尸体肉量在内)。</Hunt_if_meat_count_per_colonist_prisoner_is_less_than_0_also_in_fresh_accessible_animal_corpses>
+	<Hunt_maddened>狩猎发疯动物</Hunt_maddened>
+	<Colonist_will_auto_hunt_maddened_animals>殖民者将自动狩猎疯狂的动物。</Colonist_will_auto_hunt_maddened_animals>
+	<Equip_better_weapon>装备更好武器</Equip_better_weapon>
+	<Colonist_will_swap_their_weapon_with_better_one_when_healthy>当殖民者处于健康状态时将自动换上更好的武器。</Colonist_will_swap_their_weapon_with_better_one_when_healthy>
+	<I_like_log_spam>我喜欢消息</I_like_log_spam>
+	<No_more_Reached_max_messages_limit_Stopping_logging_to_avoid_spam>没啥:"提高最大消息数量，停止记录日志避免垃圾消息。"</No_more_Reached_max_messages_limit_Stopping_logging_to_avoid_spam>
+	<Min_Meat_Enough>最低肉量(满足)</Min_Meat_Enough>
+
+	<Auto_unforbid>自动解禁</Auto_unforbid>
+	<Refresh_time>刷新周期</Refresh_time>
+	<Auto_fill_empty_bills>自动填充空白工作台清单</Auto_fill_empty_bills>
+	<Set_refresh_time_in_seconds_for_filling_work_table_without_bills_with_bills_from_most_recently_build_work_table_add_suspended_missing_bills_move_suspended_to_the_end>设定刷新周期(秒)，自动为无清单的工作台填充清单，并为近期新建工作台添加清单，添加的缺失清单为暂停状态，并将暂停状态的清单移至底部。</Set_refresh_time_in_seconds_for_filling_work_table_without_bills_with_bills_from_most_recently_build_work_table_add_suspended_missing_bills_move_suspended_to_the_end>
+
+	<Automation_only_if_in_range>仅在范围内执行自动化</Automation_only_if_in_range>
+
+	<Quality_of_life_automation_restricted_to_items_within_range_of_any_hunting_squad_buildings>智能生活自动化的功能仅限于狩猎小队中心的指定范围内。</Quality_of_life_automation_restricted_to_items_within_range_of_any_hunting_squad_buildings>
+
+	<Set_refresh_time_in_seconds_for_filling_work_table_without_bills_with_bills_from_most_recently_build_work_table_Be_careful_when_using_in_more_than_one_base_Time_to_refresh_is_minimum_of_auto_fill_and_auto_add_if_both_are_enabled_Set_to_0_to_disable>设定刷新周期(秒)，自动为无清单的工作台填充清单，并为近期新建工作台添加清单。需要注意的是，当你拥有不止一个基地，且自动填充和自动添加均为启用状态，刷新周期为两者中的最小值。将其设置为0以禁用功能。</Set_refresh_time_in_seconds_for_filling_work_table_without_bills_with_bills_from_most_recently_build_work_table_Be_careful_when_using_in_more_than_one_base_Time_to_refresh_is_minimum_of_auto_fill_and_auto_add_if_both_are_enabled_Set_to_0_to_disable>
+
+	<Auto_add_missing_bills>自动添加缺失清单</Auto_add_missing_bills>
+
+	<Set_refresh_time_in_seconds_for_auto_adding_suspended_missing_bills_to_work_table_move_suspended_to_the_end>设定刷新周期(秒)，自动添加暂停的缺失的清单到工作台，并将处于暂停状态的清单移至清单底部。</Set_refresh_time_in_seconds_for_auto_adding_suspended_missing_bills_to_work_table_move_suspended_to_the_end>
+
+	<Allow_melee_hunters>允许近战狩猎者</Allow_melee_hunters>
+
+	<If_there_is_at_least_one_ranged_hunter_melee_hunters_will_stay_in_distance_and_assist_if_there_is_melee_combat_If_all_hunters_are_melee_they_will_surround_target_and_simultaneously_stab_it>如果狩猎小队中至少有一名远程猎手，且该远程猎手具有近战能力，则所有的近战猎手将与其保持距离，并协助远程猎手狩猎。若所有狩猎者都是近战猎手，他们将包围目标并同时出击。</If_there_is_at_least_one_ranged_hunter_melee_hunters_will_stay_in_distance_and_assist_if_there_is_melee_combat_If_all_hunters_are_melee_they_will_surround_target_and_simultaneously_stab_it>
+
+	<Min_Ranged_Hunters>最低远程狩猎者</Min_Ranged_Hunters>
+
+	<Create_dangerous_hunt_group_with_at_least_0_ranged_hunters>成立至少 {0} 个远程狩猎者的狩猎小队。</Create_dangerous_hunt_group_with_at_least_0_ranged_hunters>
+
+	<Min_Melee_Hunters>最低近战狩猎者</Min_Melee_Hunters>
+
+	<Create_dangerous_hunt_group_with_at_least_0_melee_hunters>成立一个至少 {0} 个近战狩猎者的狩猎小队。</Create_dangerous_hunt_group_with_at_least_0_melee_hunters>
+
+	<Equip_better_weapon_of_the_same_type>装备同种武器中更好的武器</Equip_better_weapon_of_the_same_type>
+
+	<Replace_yours_poor_revolver_with_good_revolver>用更好的左轮手枪更换殖民者手上较差的左轮手枪。</Replace_yours_poor_revolver_with_good_revolver>
+
+	<Find_animal_for_hunt>搜寻猎物</Find_animal_for_hunt>
+
+
+</LanguageData>

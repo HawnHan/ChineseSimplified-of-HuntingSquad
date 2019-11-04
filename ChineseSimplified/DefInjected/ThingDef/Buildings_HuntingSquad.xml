@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Parents -->
+
+	<HuntingSquad.label>狩猎小队中心</HuntingSquad.label>
+	<HuntingSquad.description>因为只身狩猎有风险。用狩猎小队中心来为自动狩猎配置狩猎目标吧。智能生活自动化。设置狩猎条件以开始。\n自动指定并砍伐树木，收获野生药草，野生食用植物，仙羞树。在达到设定的每个殖民者分配的肉块数量之前自动狩猎。当殖民者处于健康状态时自动装备遗落的武器，或自动更换更好的武器。新的殖民者/动物加入后，自动为其设定殖民地内最普遍的活动区、用药方针(涵盖动物到每个种族)。绘制行动路线和狩猎路线。禁用自动解禁征召状态殖民者。设置武器射击距离偏好。</HuntingSquad.description>
+	<HuntingSquad_Blueprint.label>狩猎小队中心(蓝图)</HuntingSquad_Blueprint.label>
+	<HuntingSquad_Frame.label>狩猎小队中心(建造中)</HuntingSquad_Frame.label>
+	<HuntingSquad_Frame.description>因为只身狩猎有风险。用狩猎小队中心来为自动狩猎配置狩猎目标吧。智能生活自动化。设置狩猎条件以开始。\n自动指定并砍伐树木，收获野生药草，野生食用植物，仙羞树。在达到设定的每个殖民者分配的肉块数量之前自动狩猎。当殖民者处于健康状态时自动装备遗落的武器，或自动更换更好的武器。新的殖民者/动物加入后，自动为其设定殖民地内最普遍的活动区、用药方针(涵盖动物到每个种族)。绘制行动路线和狩猎路线。禁用自动解禁征召状态殖民者。设置武器射击距离偏好。</HuntingSquad_Frame.description>
+
+
+</LanguageData>
