@@ -68,7 +68,7 @@
 	<Medicine>药物</Medicine>
 	<Food_Source>饮食条</Food_Source>
 	<Dangerous_Hunt>猎杀威胁</Dangerous_Hunt>
-	<Designate_Trees>指定砍树数量</Designate_Trees>
+	<Designate_Trees>标记砍树数量</Designate_Trees>
 	<Set_refresh_time_in_seconds>设定刷新周期(秒)</Set_refresh_time_in_seconds>
 	<Equip_weapon>装备武器</Equip_weapon>
 	<Set_refresh_time_in_seconds_for_equiping_lost_weapon_or_swapping_for_better_one_using_DPSCalcMode>设置刷新周期(秒)以便殖民者将装备遗落的武器或更换更高DPS的武器。</Set_refresh_time_in_seconds_for_equiping_lost_weapon_or_swapping_for_better_one_using_DPSCalcMode>
@@ -96,9 +96,9 @@
 	<Name>名字</Name>
 	<Initialize_from/>
 	<Select_animals_with>选择动物属性是</Select_animals_with>
-	<Designate_HealingRoot>指定药草数量</Designate_HealingRoot>
-	<Designate_Ambrosia>指定仙羞树数量</Designate_Ambrosia>
-	<Designate_Wild_Food_Plant>指定野生食用植物数量</Designate_Wild_Food_Plant>
+	<Designate_HealingRoot>标记收获药草数量</Designate_HealingRoot>
+	<Designate_Ambrosia>标记收获仙羞树数量</Designate_Ambrosia>
+	<Designate_Wild_Food_Plant>标记收获野生食用植物数量</Designate_Wild_Food_Plant>
 	<Count_Meat>统计肉量</Count_Meat>
 	<Set_refresh_time_in_seconds_for_setting_new_colonist_zone_work_priority_medicine_use_to_most_popular>设定刷新周期以设定新殖民者使用最普遍的活动区/工作优先级别/用药方针。</Set_refresh_time_in_seconds_for_setting_new_colonist_zone_work_priority_medicine_use_to_most_popular>
 	<Meat_Limit>肉量界线</Meat_Limit>
